@@ -1,0 +1,485 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_EXEMPLE
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_EXEMPLE
+ identifier : 0x229c553b09d85f6b
+ internal_properties : CAAAAAgAAADNzgahZwlWMB+d1tJ0SyO7tjVM22UvhCrOcLFC2nYmRA47U6Xv3vLG88BGfV9/K5F1Cs6nMi0809OWq508FxbG7JCS6fSEOmgUxmle1kDhF2DUFL3nQc2Nsut2rVSFu0mQk3aLnIcpSVsyGsPCnpqobGcrVickfgsCAmhsdvi6Hs8NZ/hUzsi+0urcbzAN4984RgV3Ky5+bVvVbsIOpdyFkVUfNkBXP6s0hBW/NMweTFUyqr0uvro7LvkaYUNKIN1cytWmgUDM2oj5l+uaGkHTWbsoD/69qA19IDlMxIUA4pIV2ET3YDeG2joRZlSuGko3SY0CRgHqfPgM1m8g8mxkwtDWuVMe99e+92q7uM8lJCQYd4pSP0BFBMRcCoCJfWqJj3pqxmvu8xykFpUOmSkvFGJLD8sDB1Gxq/4RBCVKkmYNVOqtmreCQIDIvYBJbZkhBA53k8dDGWt6x4+5WWKE+vnMM/KfuJcNI1N8ry6WFW1HJyR9orpbqtTVOwQ3M/r+S111DNPJ4oaLaaB5SgP37bWc/oHetQbGoHrA7uL+pLQ9Hqs6xNAyssgJUr96iNTfBcx7UErsd8vmhJgnViMKdDKtmAbXrY4SGpDBlEiSgG2VxvGD0zdBZhUSc/POBMBr34l7QcAiCfx+R/frk7qIqukhYu3HJJh918ervPQEy2uZE3SXeBWSJr6dFV4X0p2+8EtUBhr2y1I6x8L7jp6q9DnPHiLUctgLEqllZJQFPwYs9WpF5CVkEu0MlPzEJsBB
+ properties :
+  width : 544
+  height : 391
+  widthClient : 542
+  heightClient : 359
+ controls :
+  -
+    name : LIB_Délégués_DOTNET_avec_WINDEV
+    identifier : 0x229c55440a1181f7
+    internal_properties : CAAAAAgAAACXCLWOwZqjHq5KZMamTTqZoO1BrSvNeu+mH1XhlDF1WL65A55sTU3gKEW++13RyhcyFAv62xX862s1c6eojH1nrd1O/mha1Oc47wbbNc24WO+mTxUOheCu4/DZTQCGGqPWNU8Viw8UBx7+ZGQsk2hSVuIWFmdC5K2w3vBBDTS8arXT5BAK28zpg6UbvJnpggOpD9LoBlPJjGWxfkxED16zxDzx0OGH5wQYdM6YD95JzK/l1Ru07QXvMMul3iJpT6T3il3oQPJChpVadnnqg4SFjqt2TtSIE8q5hT/bf824f4Knam2p05tST/Nf7fCQfoSSmM4GEJqsINB+Gf9RpGziZCSN5Brru8TcmKxtLfGN8xKdL4lrRVXOiLSbnS0wLVMQsVZG7pq7hlV3CbFTgDLTwhITi08tqvx2fW0Lf4FnV06lOY0rGr4dydiSXbF92LILqYV91ZHEdqnBJGH9l0TgUIbKErkmFT1QHqeqXskzR0oqMHT1K/lhT9cjt+19i0FZmqh5N+348b2luRvOUg2OCfx1JQsksxpV/Q==
+    properties :
+     x : 18
+     y : 18
+     width : 518
+     height : 19
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Cet_exemple_vous_présente
+    identifier : 0x229c555f0a4cea56
+    internal_properties : CAAAAAgAAADZZx+9HZbOOhUqTMLMnH8x0p+PC7rgnUos5BGhIvlBXqKJI+4homGo1s61J1wr7ISB4plj0v0FhjM5JeOAv7XDb+LKhPs04g0AOwV3gry5pZ5SGqA90ii/fFZl0yrWamhuq+uH/5mcXG273GYySSTi6/eZRcSBFizYtry4xWF3JfP8On4vn9hKq1KGhciBAYYBpUAIpKSjzdg+0ucq+tVinNpObaqXfhAzIeuNIxKWWuXhB7jvuYRIPR4S8COOTw4DFu6C2hpcIl60DjLfxh1yDR1oblyWm7uZF2skJJ1/hKcIL4hj0M6NQmsY1B33scOJWyFA+XXR17o/D0W4e868HXjiCXfBQG6bYCDnj11ilRBrPJBT76qTZpXMNjzR7jQbQi+WYKwENE/qE+fn6THICoTetB+H3BiOFuo6vleqF60yjZMjkNhnnWt98aPATCfHiB4AJaMlJizSM1l3VW3gLdPfkSD2VCrmf00VXzITULb8CjlThZtRKulIWBwH/VUREYND8bED4I6M+TMtbceHofOb5W/xMQCKRkLCt0kFQ3CoTuTcbstEJAImbN1rDlf1CWhrUTE+WCPuECF0Bg3pFMe3qJfmNfY5iBKeTSNkVlQSOkpejKeSkYf/DJowZ0y0QA==
+    properties :
+     x : 18
+     y : 43
+     width : 518
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_ETAPE_1
+    identifier : 0x229c558a0a9193a6
+    internal_properties : CAAAAAgAAACAtkAlBFOs6DeM6Otil99Ij4upXWkmaOzwe9Ig8IK/TD/5tcDO+aX5TohRxn97V+bWP3d1omDbYYcguWhJXRK6esx3wBYM90OstFiLFwMtZzJYGLMCRrvp1OjJmH+kFl6D7qVodXQFZoshLefd3k4JpZq8N+VbZkwkIr/b8LrGortN0So+IdJf3IIRKv6r8djCT/F0+ujqACyHi5KDOnS9Aqz97Wvn1PAKibVw2mKAaKKt7BmqP6FB1LkU3ET04iibcfW14+Y9SPezfXIYP1xzYwtwt1IaL+iFrVVgw9gx+j/kmSPiKWZ3jVbxSvPagx+wWR0rrFjToNPi+xTrw+r8eeBTnjktvjaIWpRo0GW+0PNuqffejYjNhf47jjGqAtKzpO7fHY7QS4uJfnie4Q7rCbYUIviEpOI0kC57HsKPAUamoXYgZGJI6FXnnqeIZPWSknSK5qu//v7yJYmrf4wJtesgAm6pPWWumt6jWLQed0gyZXZfVL1npt7QAMzcxKIc2+HBbLtVevLNAPeliy+5WPDJyws25nyGrqGcoZ0LKddnZvoCo3Vcpg4CkDx+hsRRyFoZ8AR9lMpYtmglE3oDDR++sOoq8OBLhUEgt/wShjkrAI8Y3QfQdvirwuEuZiX7mGQUTJXUWhkhhgfGIafwyV0nCvuAFr29cGuKhekGLDMz1QjzN3vcFh9qKVSoFr/7sWzvaVQVo0EEaQ+y+xkDQ0J/4nF28sqDp0q/IPBnoFfV+zRPirxfuICymKzomVXIMamJD9hoVEittq2OoCZY55flMFOwMRba1K52Z+uTLFZ4itMICvBnxUuZ9LvoRyPIp3ofmSmXWpiu9+T5MfhrkJJh20qHV3QQpPsGOtIYyzkcu9uBOhXCg6CcQxnBiPTctEEWqA8k+IiINS8ATOdwQfWKYFRNmLqg
+    properties :
+     x : 25
+     y : 81
+     width : 147
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABNJxiT26hnMlXmY0zQ+55fNadmUL6Ln1cFNK/yDNHJWSdSEKTlHv1ttgXjKiAOg+TFyGhopr4ny1/mhWZ/QT0VnGBplBBZ+UthQ9ctXauneyrQKQjJXCOiUWFiXWYCsiEwyMxaZbH0OD6Qseo=
+        code : |1-
+         
+         // La classe FileSystemWatcher du framework DOTNET
+         // permet de surveiller le système de fichiers de
+         // l'ordinateur, de la même manière que les fonctions
+         // WLangage fSurveilleFichier et fSurveilleRépertoire
+         //
+         // Cette classe expose des délégués permettant d'être
+         // appelée lors de la création, la modification, la
+         // suppression ou le renommage d'un fichier ou d'un répertoire
+         
+         // Allocation de l'objet DOTNET
+         MonObjetDOTNET = allouer un FileSystemWatcher()
+         
+         // Définition du répertoire à surveiller
+         MonObjetDOTNET.Path 		= fRepExe
+         
+         // Précise les données à surveiller
+         MonObjetDOTNET.NotifyFilter	= NotifyFilters.LastAccess | NotifyFilters.LastWrite | NotifyFilters.FileName | NotifyFilters.DirectoryName
+         
+         // On surveille uniquement les fichiers que nous allons
+         // créer artificiellement
+         MonObjetDOTNET.Filter		= "*.tst"
+         
+         
+         // Grise le bouton BTN_ETAPE_1
+         moimeme..Etat = grise
+         IMG_VALIDEE_ETAPE_1..visible = vrai
+         BTN_ETAPE_2..etat = actif
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_INFO_ETAPE_1
+    identifier : 0x229c55980a97caf2
+    internal_properties : CAAAAAgAAAAxZ3wAd8/vNKv9FUm39hTmMbcTGtvmOzOdA7Qd794k1DoSgmr317U+N2ou8LRXCkKKAkpTILJSxJkFnJRJiFIOdbZvonjvXgCpJkkkL/ykl1yTQv9lxGXDLbfo8Bnycs6ziSZX2yf/5G4li/YvlwmDFLKJIrx0W2YaH7NLTGTBmxnv8/5F+bc6DzHVInPdkyKpwzQiD2DMMyDT8qJ21S+oDRF5UnaoZUSWIb3mhBPkHpg877ZjZ1jOyawd5reOYaUiYB2KcPITsr3yGfHD5+p/myqohh/NotoQ6jHy29pxuKYtXAWap4Mzj7kfqTkLijrsThMURpTdbRGJvdcJr8qLLyI4tKV52e9ON1pZ0l61IrUQyNBJ44dBrXLvsLAIIMmaz4OaE2hE9UvdUisPydFgx9NzTRs0wiFFcq0+fbQfenFZdGkomXWzvUu6MRtmy+wuti4Xojp/5ObaZoVPLRhcOYFI0aKA35ujxgKeUy1Rr7hqufuWEq/pgGDStJuF68eq/FBAA6BdmxGjWt32F0AX2H6bYtXoxm0s1JqnRAWy68GN/mWYpwn56eVzGmwS40Saa8oT/LaZeRc=
+    properties :
+     x : 178
+     y : 81
+     width : 358
+     height : 32
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_VALIDEE_ETAPE_1
+    identifier : 0x229c56a00b9bd157
+    internal_properties : CAAAAAgAAABe6Nb2elX/OnllZ2h65/VHqWUIvJUQQF0ZmFIzCaWSfaFKyYmsx1JBusT4KYJtpxQFVtfQfGQWJMDx8dmnl8QoGT7ZrahDJBFndIVnJ6Mche2PkQLnDKmfVHZE8Np6TYfebJ+HtvjpdI4l2DtXZRqeAWdrKN4YbsKY7uc8mG7MZLa4QYFEsouw92d28uJ8gmb3i6Y1UoatIsizvmtYgFvHJXBYD9JTSIeVVZ2Oe3lZCOE6LppIpMgI8h2MRUYMv2ztlJsDsm2NYqeXXzKTf3x06sHIh8nFZvKtt3xeDNjuSNEjAdpjYENkjjq/45pTs9QWT4zlJmZKp9SiVV2douOPcRd03rgT6oZgYIb04I7hkKkfHa8l7bbo+wENZMpT6ppLMAU+SaKSa4B7rqIPZV9zm439rr6KpI8mOkhLbEh6vxpA5K3aDn/xnuoPg5a8WgImXgy6ychEFtFzeuwZMZ6IqXjUFLj2y6f7zidPI2zIqdNlS7nfZ3Vd/Fm1Sf5IPcvpjXroCqYqdSuHV73Ry3yuBczIp0tk8p0pI5MRciyL7YihMsiYnMX8zw7aHK/OkAd6cxd59hILQbSrR9J0+gWXaGoidYiCA2e0h25tlU3xysZumDa+41zdiKCRiJq+i3zzTSz9IP4IvzEdj5WbG6ziTsG+Z5Hm5N/gTjtlMhq0dNaBq9uMi2jdk3BDlIXca6H4we2veKQjiES67oLPok+CFQDxQ8QDvPuV3I1s0XErBiIFl+pZQDs2MkI3M/ZQigHSS615hI5x+RW0xMTs+/cQfMhI3XxnR6v8e1egXBin6y1dY0v+MHOv/GPbg9nP3OVOy6WgwmTdpf9lxQIH+1Bg88u9Pmz4UN717Imrt727P+vRTIM4Q5k0IBDsWC3dZP6g9cjyHp9UpRJydHuaAI+1HfGu3gFNGm58lA==
+    properties :
+     x : 18
+     y : 74
+     width : 24
+     height : 24
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_VALIDEE_ETAPE_2
+    identifier : 0x229c572900b6e979
+    internal_properties : CAAAAAgAAACR4yoKNXRkkeeqpt6o5q+AWJk5dJJD2jtWHV43DF4Co/bHW4Oy1BER4ORYC/MTiVmY3e6uNCYNORNA7t/z7316PduwHkQhQPbD8NiUCKibf0bgIOYhV947fMNYfMTHjrz/WOsDtpJ+oNZPt4PpXPOYV20VR33Cb134fKm4RaGVQY9sIJ6OQcGqMw4E9DXKhjWSFovcvaMsylFGfQubN36VsljT4teu4hruT4sHgCheTyLLlFR3+9NckH+869zKfd2icLDi5RdYk4+deNit1zii60rUy/mEbcI7JrlJTpVYM1mcVoeQ6SIyLxYmdlP9swd2/5VVpRVkWGi86ecg84zQVYlGtpNUTnAqVlTtxeNqyMYwVlmwc6XSrF1PzJ1txxMN9RBxaWkMVHaH+GtSTA58eHKNTQ/zxRaMAzI49lAJ/SG5Ow45NgAAH+JiOz4YcpAUdBZLko4dWyUuhf/BeRld3DHjh4b9m3SepXiAFHi+JC3oiFTVl/NJICvr9QiDtMSI+nEQDyIZP4eMaTmPrGtkkDkKAjVvqc0+/g3eeuj8TT+BaaeRAAmHcxdSOVIAe+eaQWW+Gi+bi5VpuAvTVcrWoFpyh7Ew2ka6gUQIeNpS7hgX2eiWNs6g2irNn488l7sbXeu0V6to1IcbIcJtbVWd13hZZ7wJsifhhc6me8eGj0jS141If9jXd358qN/prTm7K5OhHPOf/FsHhYkyGbyNgv9wRRVyI3rElPF0F7sYQZ7FMJDzausbzO8js5fd4EwGoZKhxDITlkoJBd4rQO2jIA+DBQ38JRkZTZlUWr5b6HTkxM5RbgI9r3tkHlYhEZlx40vBZrK27Uv4Qj4RjKf1H8i/ygrDTRjhAr3acukGr+Tbxrx7xStyDy9pmW+GNvIHYN3JwYEknHw3o5ktbLXAhIA=
+    properties :
+     x : 18
+     y : 119
+     width : 24
+     height : 24
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : BTN_ETAPE_2
+    identifier : 0x229c572900bae979
+    internal_properties : CAAAAAgAAABvw+3kphHTCTec2fj5XkKT/iJtI/2Grlhky7+uANf9udJJvxltdpVMnlybl3+z0HsoeIMcqPGP6Wbe5WrCBVet1mVcPGguL8tFL6Mehj/J+qIsXZI7QuAgJKONcL/082s9DnsoyP6hbG8km5FS3aFBdqe9fSsXL/MbzKcDXYt+HaCj9AauraDJgdCXUwm1AIqnVCDSrZZUXLihhZ28KQbRE+ZcIx3SUUFKqKz4HPwX9aAFTO8w7re7p6rTw6z6d0j1CdniO22Ga++ZoEI2nUbrFfevlgUOGD7U+zZmm4lfy73mSHGd9IvIpvrChP+BHycL6suJQMM1Kze1yXH4hnN+oJw/S6AKhjt0m6bovHhiRXdDCSUrt07kI6WN+9nB2hiQ30A7jzQ1uYEPoR50RTYLRoqTrZ8kymz3DG3APBtYEk6g/+K57v0ZaAi0NEXk+og9o4+VpMifH/YZX//XvzWTUfVEZP+UeuXqaBhDy9uOE0xf0WPldmAXVCPj2GoLsfvzc2/sOxUiYp8Kp+Jc4y7WdE6/UCOWRqwWCZgqjTPzOZqgTWWxMJHRDgHYrrPuyBqdq3Vovx91/qu0F4omoApT4kG2iP6Z46x6WToyjpz9flJ1DHmSvz1e8h+IHscOb7h7b/2PES7mTCRqSwLKvTgDmgaCqZ2Jg9E4GD+hz5U4nbFnxGwfEWcwsdNi2BJFx8GZqntr2lmduCRySzoKIiL/WzSfylmpKGU+A7UuwmGLv/Hx86tcAxKoNQGxFWq5b6mQMJ/+NLT9qlKBFD6Q9+t887dugumEPR04+othWD/9EyS5LFgYJbQahBDhGTG9QtG5DGCzoRMePE5nDLZw3lYNOfoeZj5NCfhw6HOoE5J1REygWwcblGCpf8Grq4ocadN/KKuQGgXxmoOysAJS+0RbIxNUUNMLFkilQTIScg==
+    properties :
+     x : 25
+     y : 126
+     width : 147
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABTJQpxNU4G5v98H7r8xzi5+w2MfOitUxPHanuYqCVvt7G01mBbeHmNGLOzdJCe5c6f6orA0NRW+IqxFKmkLNp4kVVo/7koLBwwcq44un5Uns99XEeOl7rbnDxJoLvdU7ipWctFJieemlx+r/Q=
+        code : |1-
+         
+         // Un délégué DOTNET est une méthode dont le prototype
+         // est strict et définit lors de sa déclaration dans la 
+         // classe qui l'expose.
+         // Il s'agit d'une certaine manière d'une procédure "callback".
+         //
+         // La classe FileSystemWatcher expose plusieurs délégués dont un dédié à la création de fichier.
+         // Ce délégué est de type FileSystemEventHandler (gestionnaire d'événement du système de fichier).
+         // Dans notre exemple nous associons la procédure WLangage SurElémentAjouté à ce délégué DOTNET.
+         
+         // Allocation du délégué DOTNET
+         MonDélégué = DotNetDélégué(SurElémentAjouté, "FileSystemEventHandler")
+         
+         // NOTE 1 : Avant d'exécuter ce code, il est nécessaire de générer au moins
+         // une fois l'exécutable du projet.
+         
+         // NOTE 2 : La procédure SurElémentAjouté doit respecter le prototype définit
+         
+         
+         // Grise le bouton BTN_ETAPE_2
+         moimeme..Etat = grise
+         IMG_VALIDEE_ETAPE_2..visible = vrai
+         BTN_ETAPE_3..Etat = Actif
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_INFO_ETAPE_2
+    identifier : 0x229c572900bce979
+    internal_properties : CAAAAAgAAADOf6P44UseCqVBo79xZ1EEzmU35SmSZp4vrCLOvWLC/90NN8p5YsB0cSvYDtCzZpW4pGScJZfegsgXcMDGXtQ6CvBOgCLc+cWBiMnUJr4Ng2WrkHQ7Nc0mIDr5Q7qBYHRiA8bXhjHJpbxk1hSApyK2nSibq13puddUgB8Cmzx3P4brYt+XKqAJMZoZvCwBwiacLm86tSV0yrLlmBb54BeLXkCYQDH8ewWf+zfbeWK4Q8I27HH/oj5ByPits6+A6vFfTHu+63QtkdBByFhf/M39WLwAPbSji5/81kEhJ4NiC6EXOU+ZWP1zDj0Hl74PfsmeEarLIAN+tKUKuU9MRo7Wr5yfI/VnUGIuHkUaQj2efzlfCAf1AOsvo3X9XbF11snxA8oiKokaI1a5r8d6+k+sXhGcLH8mxs83h5EX1DcP7EzxdjfNxlzaaqqN9IoEM9DhZ+k2DmCGa/4crLRrf7R7hYbd1lYfahcJPe6d18ZXYlhbja6vZhahnXKkVTwndIkqK6oqxQqkDl97mu/BiJXwucVg2Zx9Nd1X45oRtQ==
+    properties :
+     x : 178
+     y : 126
+     width : 358
+     height : 32
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_VALIDEE_ETAPE_3
+    identifier : 0x229c584401c13a36
+    internal_properties : CAAAAAgAAAAHLdh6ZPCi4Qxth1UdOAbtSwfXNV0EnuWVWjzq0nX85efJ/XyNBZIvK+/eY94TbcFldZY2aKnbs3MZvsIlM4G0Pi2uF+xxe6GHF5G++AuyS/zYX/0sOO8cSOPQXqEacdlzEDbS8UvHSr4RkUgSx/gU7hnaWKeSiZQkCM8AzQ4gcTOa73rZ35g2qLbWqaIQahTYqrXwO6bBv/8fXm9oi6v58+eL1+U5Xicd9thEAtCQZDOfrh+t4nWgxmBTL67YwHAXY+Mt3BYPgl7JZ3p6+oZ6evclqXHntJA8BiOhsz7o4ATYcWYXLp8AEKL3mybCs3sBmkBJj+RyOtuvmQVkcxW/VbnlE3aItYWZR4IppeVQlRrl0MU97eWFNjReLb49nqrUoOpcMwajurd381G9rKP5cYpcgtmTCYehdt8ReRSe9oI5ZUQb+d0+6XL+c5H+Boon19q/5TUPbnQcS1EvuTkWyB93aAWiHo96TUuHiFhP5ntDBIcwaNC9Kvj9+UWNQvaSM/vEvAFFP65l49tDju7QoTOrwgQwiD+CZQ/tLRhVtGhB3NlwcACxZe2XARRwGu+FV1e4w+SJmOqD0txgfAZhKA25XIgy22qglL7wHJGwqVqweqpHNWqOdudyJhPMknd4cwVFB6Xa8SOo8u1YNql6nXVTR2fo98eBiu1ziGbwbP5kPwEnxUZELBe+iKiJxaSBziGPVzfABlJJJyv8ox03YXd2C35PSUK3UJvdajDsc70L889Z+ts2Zv/6kN/GpM56EmtECoYJQioc5E4IvAkh+FgMEFGdQWTS275AIBSJJSDZO9zQVYK28g3tAZR8UyaTY8ooMx24FVF9q5lchC+XVfiSTuaYCtxlDQKZ2S6Sbrb64kjdyRpOB+ysCBpFajNR1WpYaUbaxXhbNhDMrijr
+    properties :
+     x : 18
+     y : 164
+     width : 24
+     height : 24
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : BTN_ETAPE_3
+    identifier : 0x229c584401c53a36
+    internal_properties : CAAAAAgAAAA7L9GYew16Tue+61x1drbZRrQlldEg0uDQeVX6HB+5G/6/k89trcPvhHpwaZlt8n0SAhViKk/KJM3hqKPZvOpAS8A6hr7/EGY2TrLxh8o0h8dxGF8ID5V5AJbPUUKKBDOOZZs9k4phrmQDvfq/5ej1oNxtlbphqVgrgIodjBoQH0Bs8ti/6lhKlBTJHddI5nXPjZomhkw670SgQTQXQ82aQocT/7JSeANPEg8j26cPn84O1lwIb6DvDGu6qMewaSFix6T7oMFa4ojwbqSujdr2cMpvrRJigTra6+wDSJfss13sL02Ki9fRoAwMBUvQBf7T5rKD9UYDP9uN6HRgeVuy/pORS6fbujqR5f+IKsfEU7oltdKnCD41BfqacBIdqi3pD3tbILMMji4JpB03UV3dwBre8n+LJvLTQpWhy5SAopORUDhAAIPBHmKIC4h84wFUIeJeCryDeXctIwAU3+DK5RDtkP5TdMyKFgZuOJJCQXqTxWjKi4RPPNJSax1buCVTYvDXHbiugOJBrAY3I9K2PF97mWLXTaPVjByzU/0Afzqu2rutiXS4PSbxT9UcS9b9DfBJvA715UJ+ELIAgtJlPpUi5ARLpbTicImFzzvff4Uwv1fDcjoKzjL7r9JFR6KlHAm4b8zDo6tJtMT+1wr5iMq8g8cInpwP9zZXOVLbpBPdB+lUOgC6Z9LnoDWr6m5sLgld7sE4V3EBN67UVWwp3842iLpCZfawe2Vd0ACPAKobJOOjFv7JpVdWLhsko3pkJlZM4fXxG4Nzr1tkvBSMZ33/qZBatH9UbvaWC7GRJJVAXOyrNruDnVH6yECu02A+6Z3eXDI/01Y+ahzsECRh5S7e2JI3/3764i3GAaRrThbarkiq0OSGSJxGVO2DcMJMjQy57TDmk4iJR28xBhMaoIBZNfrz833JJRZ2ng==
+    properties :
+     x : 25
+     y : 171
+     width : 147
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Pour être utilisé, un délégué DOTNET instancié doit être inscrit auprès
+         // de l'objet DOTNET qui l'expose.
+         // Il existe généralement des méthodes add_XXXX et remove_XXXX qui permettent
+         // de gérer l'ajout/suppression de délégués.
+         //
+         // Dans notre exemple, nous inscrivons notre délégué créé en étape 2
+         // auprès du FileSystemWatcher grâce à la méthode add_Created (création de fichier)
+         
+         // Inscription
+         MonObjetDOTNET:add_Created(MonDélégué)
+         
+         
+         // Grise le bouton BTN_ETAPE_3
+         moimeme..Etat = grise
+         IMG_VALIDEE_ETAPE_3..visible = vrai
+         BTN_ETAPE_4..Etat = Actif
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_INFO_ETAPE_3
+    identifier : 0x229c584401c73a36
+    internal_properties : CAAAAAgAAABw0WEGvjOlULY7PFjM9rQqGXJ8ZbrU0zs7JVbAH67Wt+GadQEkDUQsgFoRMZyaJuId0MqEMZUtfsntWiQdfzhLtQxJi6/qlfB/OMgJfcVsEa3IPej/rkmkDCkSq6qxTPR0SoTfCymngs0IwdtB4cSuAVmOve8GGmytLeozPsYCXbYXFEEW86atq+lna1CKnQEAxeIdkFORKnh0S2270Hyw0nt0L/jiktHNLD43gW9z0aeuqBLLAI9w6JeskXg0s4wA3O5527t3kGqkrTZeAtJFF5d/j8o2x3vxX1MeRiqKnuWfJ8Vl4hoLJwoRWhLRDvrW88bttMTFiBC3qi72MLQEyHmfvHVBiIqzs7J+QY6ccRmT7Nf8kXwx/OFtgY5bMYs6yBD/PfQZ1PQ2PuCpKcZZJnpStv6J+pypsiL6Wx6rOVCssDGDgqg06H+j0PnwVNg4ir3PB68SyrRau9kqJZHkBbGiiPcudTdr6V8SwViJDzb94Pzp49Ja0u7rDvyyXkxDl0tnxRh7F7znUmrZ84wQQM2+hkLxEMyqQcGknE1B0ysOMHKspuZCsJzuquPE
+    properties :
+     x : 178
+     y : 171
+     width : 358
+     height : 32
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_VALIDEE_ETAPE_4
+    identifier : 0x229c59f40449d3b9
+    internal_properties : CAAAAAgAAAAHcZgQI1J6t0lgyEw+nBVapoeXmgDxsKHIo2HCDU8fwAek+PjXqXKsJz2nmpjIyl69Pn/f/YfylIrlZTKU4FaHnlxxj9G2GXXuicOTZT0cBBsx8e+6MRDZFoGKKlKlRO4FlkHJjKAUtgC1ydmHciECtVvz5dOoffvSiuum85fT8936nuwsjx8gPcSu6qtYnJdAlHmH7NLnN16dZpyqNo2I5Y8WXf4ddbu7ehighw+NIvmGR2/2GkbdyZad9COxtNTVZ0PFDP7zaHAg0TE0ZovRClHHrhgcJvdIs1LS43r3vvABTWY9Pt+tnIPHf5jiNppJ9IxcynKZmyFx5pBdeJP79Dbt7Xyln9/fd3WSZgSlhxVRdUhdgEKldUJgaY5WxqqITmMsJu8v+XdmeVAVXxXX50VQmCJeTMftIqu1cUtYBJRkkg2gtduJUOWntH6oQrBE1JbbEm5Nm8WGzbepcSE1BEmrX66Vg3C4sdYqYCyEVqugdmbp+x9JpqNdQyCbptL+Kmcq+/5NJ510Qw+og4p9n+xZMyqy1pzhVeADq9eP6l6sIHDu42ZmksqByo/TJix1oMhrY+bkVijwO4j87DVrywlFxGK/W92NqEdFsbGFQ/MeNJ33jTffDfFyGqMoKbkVce0y1yOAzGkfB+RJ0e8zSYQrhYyB2h9PRbh8g9/sUYqO0YNAj0hbSYJi+usd98/NZ1Xf1PtHBDEPf89SGTrXRBm6G0NUwUC2vqOClQ1WmyBnsp7RHDnhngnFye13Vg5AS2RfKoxJVLyjRyQRipMdYjm1U7Mesz9LN6u6EMhTyFQmvMZrFIxnp4UQonzrTa09Eb9N/OS0G0fmeobTuvtxU8abXnBdczpdeH3adOcC6+AhomCxj+G8xZXPcwEUoFjtTjNjOw+2LsLNybMHgp8uEhY=
+    properties :
+     x : 18
+     y : 209
+     width : 24
+     height : 24
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : BTN_ETAPE_4
+    identifier : 0x229c59f4044dd3b9
+    internal_properties : CAAAAAgAAACVBd9+U6t2C1RtHh66OW2FJihJ7NNQD4VxVRjIvMu5CTCpLMR2fF9Dq8t9vijWkoCrTU/Zx0Iw3+/QXsQ5/usnlLFkG5sN9kGgYMOreg4/xCazoVmzSInqQ/RD2wV8aar/GqYw0way3A9xQC8OtxhdmKYpS27y9j8N3r5H+K40yzWZh9S5oG0OjMfy4dSnmrLisMJDhgj/Tx96fL447aybdsg1+hZqsHbDgez0uLx6YslnaYL4+RsHvrBI+1oAYUWy0hIkgNpaQvb7wS52Sg8vgVdOR/Ilxlp1sj/K/E5yP1jQd6eNKlgzwkI7p44yQNzVqvV4WJgXyEP8Yf7ZKxKxUyWnEk4rGjyjlwXIAN/6qjLHGWxcZiGXlP3Mobgx1yPmjo4b8N8J4p652FRtsHj+l3d/uz4ttlbyOzkl8TVMaVjYI98qOe7R4Xo4UnPvel8/GX5rJrKs80NwSPSGkSuCz2dVruPdDJIr+bh9awjEzdNHOY8z3rXDTPffj9oOqCkro8qKEhLS3mxlw3DOWT0MV1TTxUhc5eyMbzOdpFTXFOmxCCnVxU+7Y+CoECJcztWRNBZctZiIqijJ8bb4qf6eIQPtNEbKNhJLzg7cxg0BDQ0P9QUSrsJ4n7IoeF8Na0vWXfBxX22TsC1V38x9g4fZRv+BncsWCnfREaZUin/Ve22YrBlMu4G9Dz1dsrVOY3H/aO8wAUrmXvYvFzROo6Y21qiun5OOHxNeeQEb8GYktJjcQv7IVJrbQsoQB496v54PMqOp57fZsulb6jCnYuB3CVhJ1Ev1cqfUlIDRof+tbpNO8e2zyJBNDZaV+oGihBW7w1ywdlYSg6mC6cQB/SDWGCkhghIu5Iizq9WteIKEpBJbqZFBSnWKl3oGgqqQ/JAIKFTE0oTzDSBjLeKeyjFsJBM8+z9QTrztT3lpSufmhIKC
+    properties :
+     x : 25
+     y : 216
+     width : 147
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABxQxSfY2QlxlGaV9isp7YfkYu+nAZXV4tZkOumeGVJGWvG+BjVclVxEkm/xuzSu9xBfChkBnpRhQUMj0D9Uy8TetLzZgZbU8VvAWmXu01xQWCKc0pv/kVUnxe8NxxM/O9OCm4Eo2EkNDqcTRY=
+        code : |1+
+         
+         // Démarre la surveillance
+         si MonObjetDOTNET.EnableRaisingEvents = faux ALORS
+         	MonObjetDOTNET.EnableRaisingEvents = vrai
+         FIN
+         
+         // Nous allons artificiellement déclencher le délégué DOTNET
+         // en créant un fichier volontairement dans le dossier
+         // surveillé par l'objet FileSystemWatcher déclaré en étape 1
+         
+         // Création du fichier
+         fferme(fcree(DonneNouveauNomFichier(frepexe) + ".tst"))
+         
+         LIB_INFO_FINAL..Visible = vrai
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_INFO_ETAPE_4
+    identifier : 0x229c59f4044fd3b9
+    internal_properties : CAAAAAgAAAByYHZEG5EOmbHrL/CesdaXONKqUqPJcpXCRHdraGV4s29hA+locUKwfxleGYFKIwgbWT1QM4U2vlWofWoefIyA0HLkQhsD9NPUsJoWA9JerRXASV6UBW4dbMB/tE3Hbj3rjxIz5grbkYpphYEZxbvlSKnpXnJqEj20MmdRrdgGt/ZZ1MLQaGzwScLMTC/iFQC7kL95xH9B3002p6cYhdiIZlptgPiwrzj+lRWQbcDJ4rrMlXAQHoVCompDuU4G9AaxhAXZnGiOATi6pDjdMT6L8hGUqDTongmPVVVLKTHRV1Wgs9d84D+jZwrbeHoWwWhSt7cqGaKaULYNwEhOD7HS8tsqQ2S5Y5CxQYhAyR3rlW2nmcifCZkjRGkleQzODL3QJkVY5jZYcjSWxFK15EOFhNiBCZsxk7zNRo7WQRU+nQreNR6kBAjctid4y8LUDnNr2xV9Y+iEiGHUIRlIPmKDmMQQZI+wPZvd6R3Q4xu4obXS8gFbZeeUqYqqRJtAxH1HhkBYHMjiaAdlSV/3+0rH2tWkWnbm4pbznoHmBZG1XLeDZ3L07icDOQ9KGC0nFx5VAGqmfm+saFpY09g9jypWVXzpJGcUdfg=
+    properties :
+     x : 178
+     y : 216
+     width : 358
+     height : 32
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Quitter
+    identifier : 0x229c5ae9057b9092
+    internal_properties : CAAAAAgAAABtVB3C/UaLtJNEjCoSJnQz82zVz8fnGxwBUH6JF53yTGxkSDzs2EpkNyQYchQ4JCP7DPOdZvJruHb1MAFiWrHVIbWOxMaH6CBHGM83mGndL3cbY5Np66mfA77gKpHxhy2qHrvi3qAuooXWvOzOn0rUlFVy047kiMlU6qQXxcTsi7KV6M4UfahQ9ykpObxj54WHHYGnDgW86L4mbFnBoUJJ0n22YmUP3i7G39yt1U2m40lBzxtdSyHIuehlzfRm1SF0V49EhAMYIw8FxPNNaFmwUmL7l5wa2l2C9Fr2S8/Hfzo8Zu1LRIlWeEapPzVAedCX6M5mAnCpujIheDB2xW9PWaVUcrEb/kXJzRW0Cm22lCynJ/OMASS/8ls+uONQK7A2hb6p7ec2E0owqTM+TyEKV+LEtOcwLZ5DRWO4/hCATpJ1fGxbm5onBR9NjlO1kq41FEy1UPnJHMoewoD66p8LEDWKNOTjMnpukkVpExfpp0eDw1yo9/cZiorwQeNfcf5rPtqbM5QhjDdwhbd8i1hoA9aVdsBTq5YBTzhFCEs/CRBkyc0CUSe/mT/okDCzowovYsFFgrnWpBYC+b61gCqbsmEkFcbDeGo1pK/tXYpANPB7yKF1QuGg+nnzfbzUlnzhp3LBu7Dchk4kXvKf2SX0u53UAm51iPCwM0gCai7JXEsDJQRI1D7PYcH/fzaSSoIbJm390QIrwyMuOHDtAsA2q0J4THAzku2KBa6eZ6DaX0Vz7bMRBjd04F4zReOAAAFQP+U3CAWxi/wJvUKJESmhtVuo+NGxTws+6iiivrEmo76zopcFiVWWw2RJRYg4gGcYvxiuI8inCQDV071oZqr0c5+FB46190XLwLYF7KdNr8JLxzlD9fC9JawjenHjIsx2a9NvTPkNJWAPVzHs1w==
+    properties :
+     x : 456
+     y : 329
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_INFO_FINAL
+    identifier : 0x229c5cac085f70e3
+    internal_properties : CAAAAAgAAADOHZumFCHci2F8BG2/vMZ/8X/bKnVivholgg/+cvSs2B2NsohVqXJhulwYBcxI1dj6/sB+xEZ65y38VU4hJP5dBtULZy/S+MlUs5upZ3hxzewA3YrvRXNJ8Vk+z59fqRMYLZ447qwPLGOIKEReSdhMkXaoK4eiERasBhyXehryIxMDfhZm2Soyk6M+8wAm7lhrzMbj9UYJ5AA/HYYQSOpibDokBHALP67RHCPLqQnRManNb7Zl8nb3td9BJFtwtMe/EPTWgXtu7j+3ptloHpDSg61GUwvr/PYHd4y9ksPP2MTWQPstntBGe9ECKGSKBkpNShn24ZER1ek+owqSsuPiHDq3ppwF/DCArtCCQR6l1t9eky5W4/mw+gYPFm2+RG5XGzt1unBZPP3LxMfyt3WKUKaeyVe6MHoLvhZFUHEwUuqoFzve35RdybD+l6/+MOek89Pap0CQYBFjnrcSgZO0tGfjxGgT9BXipbAS2a4KJhhK11ezb7l0fkm7Dq4QXpwmUE3cr+2r+JVgertl+NszgRS5opv4G9F18kae89Qt22dQ/QzrSCl3oFb3BTbhbrB+mviD4OSBoBHUGPVMxAw0kCOvJ0JqcMsZyFRNxJzRk9icBb0UTUb88bFHAp6BXnBgmUQDgsoeSQ5HUDOa27oHn/I4umcrJZi9sLFlKCloUz02IGMM7y/4aucv
+    properties :
+     x : 25
+     y : 259
+     width : 484
+     height : 48
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE FEN_EXEMPLE()
+      
+      MonObjetDOTNET est un FileSystemWatcher dynamique
+      MonDélégué	   est un FileSystemEventHandler dynamique
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     internal_properties : CAAAAAgAAACYR0Qg+ZOZpknuJWSK6aIHCTRFF6b3SHybx3mhLZVcN0E4ZOffj7OJ2E7JE+n8LZRJeNd19dJw54rDJ6KU6Xg+/W4/SPP7xluwrEeFItkO0AvM1fJCDpRWKrCcwzmQj7Az8KxEtIk0O4hhiQ==
+     code : |1-
+      
+      // Supprime tous les fichiers TST créés par l'exemple
+      fsupprime(frepexe + ["\"] + "*.tst")
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+  procedures :
+   -
+     name : SurElémentAjouté
+     procedure_id : 1341042966252429770
+     type_code : 14
+     code : |1-
+      // Résumé : Procédure WLangage associée au délégué DOTNET
+      // Syntaxe :
+      //SurElémentAjouté (<pclObjet>, <pclEvénement> est objet .NET)
+      //
+      // Paramètres :
+      //	pclObjet : Objet DOTNET source de l'événement DOTNET
+      //	pclEvénement (objet .NET) : Données de l'événement DOTNET (dans notre exemple, du type FileSystemEventArgs)
+      // Valeur de retour :
+      // 	Aucune
+      //
+      PROCEDURE SurElémentAjouté(pclObjet <utile>, pclEvénement est un FileSystemEventArgs dynamique)
+      
+      	sNomElément est une chaine
+      	
+      	// Récupère le nom de l'élément créé
+      	sNomElément = pclEvénement:FullPath
+      	
+      	// On affiche l'information
+      	si EnModeTestAutomatique() alors
+      		trace(chaineconstruit("L'élément <%1> a été créé", sNomElément))
+      	sinon
+      		infoconstruit("L'élément <%1> a été créé", sNomElément)
+      	FIN
+      	
+      	// Pour l'exemple, on supprime immédiatement le fichier
+      	fsupprime(sNomElément)
+     type : 458752
+   -
+     name : DonneNouveauNomFichier
+     procedure_id : 1341049537552481014
+     type_code : 14
+     code : |1-
+      // Résumé : Génère un nom de fichier unique pour un répertoire
+      // Syntaxe :
+      //[ <Résultat> = ] DonneNouveauNomFichier (<sDossier> est chaîne)
+      //
+      // Paramètres :
+      //	sDossier (chaîne ANSI) : Dossier racine
+      // Valeur de retour :
+      // 	chaîne ANSI : Nom de fichier généré
+      //
+      PROCEDURE DonneNouveauNomFichier(local sDossier est une chaine)
+      
+      	sFichier est une chaine = "Fichier_test_" + DonneIdentifiant()
+      	
+      	// Si le fichier existe déjà
+      	tantque fFichierExiste(sDossier + ["\"] + sFichier)
+      		
+      		// On recommence avec un nouveau nom
+      		sFichier = "Fichier_test_" + DonneIdentifiant()
+      	FIN
+      	
+      renvoyer sDossier + ["\"] + sFichier
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x10d999d6331df45c
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_EXEMPLE.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
